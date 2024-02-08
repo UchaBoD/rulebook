@@ -2453,7 +2453,7 @@
         "id": 22358
     },
     {
-        "text": "7. The minimum qualifications for serving on the Membership Committee (elected or appointed) are: \n   a. Complete 2 quarters membership at the UCHA as a full-time student. ",
+        "text": "6. The minimum qualifications for serving on the Membership Committee (elected or appointed) are: \n   a. Complete 2 quarters membership at the UCHA as a full-time student. ",
         "tags": [
             "Elections",
             "Nominations",
@@ -2462,7 +2462,7 @@
         "id": 94935
     },
     {
-        "text": "8. Any candidate holding a seat on either elected body (i.e., the Board or MemCom) who is running for a seat on the alternate body (i.e., the Board or MemCom) must vacate their seat in order to be eligible to run. Such a vacancy must then be filled by election the same quarter the seat was deemed vacant. The aforementioned candidates must turn in their candidate statements by 7:00 pm on the Thursday prior to polling in order to run in the election. ",
+        "text": "7. Any candidate holding a seat on either elected body (i.e., the Board or MemCom) who is running for a seat on the alternate body (i.e., the Board or MemCom) must vacate their seat in order to be eligible to run. Such a vacancy must then be filled by election the same quarter the seat was deemed vacant. The aforementioned candidates must turn in their candidate statements by 7:00 pm on the Thursday prior to polling in order to run in the election. ",
         "tags": [
             "Elections",
             "Nominations",
@@ -2488,7 +2488,7 @@
         "id": 73466
     },
     {
-        "text": "3. Ballots will be distributed to every member and their names will be recorded as they vote. ",
+        "text": "4. Ballots will be distributed to every member and their names will be recorded as they vote. ",
         "tags": [
             "Elections",
             "Polling"
@@ -2496,7 +2496,7 @@
         "id": 94621
     },
     {
-        "text": "4. Absentee voters must obtain an absentee ballot from MemCom or the office. ",
+        "text": "5. Absentee voters must obtain an absentee ballot from MemCom or the office. ",
         "tags": [
             "Elections",
             "Polling",
@@ -2505,7 +2505,7 @@
         "id": 26885
     },
     {
-        "text": "5. The polls will be open at a minimum from 7:00 a.m. to 9:30 a.m. during breakfast and 5:00 p.m. to 7:00 p.m. during dinner and at maximum from 00:01 a.m to 23:59 p.m. on polling days. ",
+        "text": "6. The polls will be open at a minimum from 7:00 a.m. to 9:30 a.m. during breakfast and 5:00 p.m. to 7:00 p.m. during dinner and at maximum from 00:01 a.m to 23:59 p.m. on polling days. ",
         "tags": [
             "Elections",
             "Polling"
@@ -2513,7 +2513,7 @@
         "id": 97128
     },
     {
-        "text": "6. All members except those who are registration deficient may vote. Members granted exceptions to Academic status requirement, as defined in II.A. of the UCHA Rulebook, may vote if the exceptions were granted prior to the start of polling. \n",
+        "text": "7. All members except those who are registration deficient may vote. Members granted exceptions to Academic status requirement, as defined in II.A. of the UCHA Rulebook, may vote if the exceptions were granted prior to the start of polling. \n",
         "tags": [
             "Elections",
             "Polling"
@@ -2521,7 +2521,7 @@
         "id": 80887
     },
     {
-        "text": "7. No electioneering or campaigning will be allowed in the general polling area. The general polling area shall be defined by the election officers and official notice shall be given to the membership prior to voting. Candidates who violate this rule are subject to disqualification by the election officers. UCHA will reproduce each candidate’s candidate pitch to be posted in a campaign display in the polling area, to be maintained by the election officers. \n",
+        "text": "8. No electioneering or campaigning will be allowed in the general polling area. The general polling area shall be defined by the election officers and official notice shall be given to the membership prior to voting. Candidates who violate this rule are subject to disqualification by the election officers. UCHA will reproduce each candidate’s candidate pitch to be posted in a campaign display in the polling area, to be maintained by the election officers. \n",
         "tags": [
             "Elections",
             "Polling"
@@ -3696,5 +3696,23 @@
             "Fiduciary Obligations of UCHA Committee Members"
         ],
         "id": 99650
+    },
+    {
+        "text": "",
+        "tags": [
+            "Elections",
+            "BoD",
+            "Composition",
+            "Uncooperative Behavior"
+        ],
+        "id": 99095
+    },
+    {
+        "text": "3. Candidates will be listed with their respective seniority points, at time of ballot release, next to their names. ",
+        "tags": [
+            "Elections",
+            "Polling"
+        ],
+        "id": 31681
     }
 ]
