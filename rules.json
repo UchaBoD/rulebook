@@ -186,7 +186,7 @@
         "id": 25265
     },
     {
-        "text": "1. Co-opers are responsible for the cleanliness and upkeep of their own rooms. Failure to do so may result in a fine (see Appendix). ",
+        "text": " Co-opers are responsible for the cleanliness and upkeep of their own rooms. Failure to do so may result in a fine issued by the  ED/Facilities/ROM. (see Appendix).\n",
         "tags": [
             "Room and Facilities Regulations",
             "Room Regulations"
@@ -1141,10 +1141,11 @@
         "id": 87803
     },
     {
-        "text": "2. All obligations are subject to continuance until an individual is officially checked out. Example: chore assignments properly assigned must be completed before checkout, pending a room inspection. (BoD 11/14/99)",
+        "text": "2. All obligations are subject to continuance until an individual is officially checked out. Example: chore assignments properly assigned must be completed before checkout, pending a room Inspection by Room Occupancy Manager(ROM) crew. (BoD 8/7/2023)\n\n",
         "tags": [
             "Entrance and Departure",
-            "Checkout"
+            "Checkout",
+            "Fine, Debit, and Credit Procedure"
         ],
         "id": 88781
     },
@@ -1675,7 +1676,7 @@
         "id": 79472
     },
     {
-        "text": "2. At least 24 hours advance notice must be given to occupants before room inspections unless an occupant is present and gives permission. However, if credible evidence of danger to life, or to UCHA property exists, this requirement may be waived by the ED. The ED will report any such waivers and the surrounding circumstances at the subsequent Board meeting. In addition, a checkout inspection will be held no later than one week after the final day of the quarter. ",
+        "text": "2a. At least 24 hours advance notice must be given to occupants before room inspections unless an occupant is present and gives permission. However,  if credible evidence of danger to life, or to UCHA property exists, this requirement may be waived by the ED or the Security Crew Chief. The ED or the Security Crew Chief will report any such waivers and the surrounding circumstances at the subsequent Board meeting. \n",
         "tags": [
             "Room and Facilities Regulations",
             "Room Regulations",
@@ -1684,7 +1685,7 @@
         "id": 42501
     },
     {
-        "text": "3. At least one occupant of each room or more than one inspector must be present during an inspection.",
+        "text": "3. At least one occupant of each room or more than one inspector must be present during an inspection. However, if the room occupants have failed to respond to the advance 24 hours, ROM is allowed to access and inspect the room. \n\n",
         "tags": [
             "Room and Facilities Regulations",
             "Room Regulations"
@@ -1692,7 +1693,7 @@
         "id": 88402
     },
     {
-        "text": "4. The inspector may issue uncooperative fines up to $35 pertaining to improper maintenance of a reasonable standard of cleanliness and upkeep. This includes possession of dangerous appliances, fire hazards, health hazards or other rule violations. The facilities manager, with the approval from the ED, may issue fines up to $100 for severe cases of neglect and/or cleanliness. ",
+        "text": "4.  The ROM crew may issue uncooperative fines in range from $ 35 to $200 [For fines above $100 dollars ED approval is required] pertaining to improper maintenance of a reasonable standard of cleanliness and upkeep. This includes possession of dangerous appliances, fire hazards, health hazards or other rule violations. The facilities manager, with the approval from the ED, may issue fines equivalent to  the value of property damaged and labor cost. These fines may exceed $200 dollars depending on the severity.\n",
         "tags": [
             "Room and Facilities Regulations",
             "Room Regulations",
@@ -1726,10 +1727,11 @@
         "id": 50034
     },
     {
-        "text": "8. Except in the case of emergencies, no one may enter a room without the permission of the occupants or 24 hours advance notice. However, exceptions may be made by the front office in cases where a vacancy exists, and the in-coming resident requests to inspect the vacant space (on the day of their check-in) prior to officially checking into such a room. ",
+        "text": "8. Except in the case of emergencies, no one may enter a room without the permission of the occupants or 24 hours advance notice provided to occupants . However, exceptions may be made by the front office/ROM  in cases where a vacancy exists, and there is a need to inspect the room for the benefit of the incoming new member, 48 hours before their check-in date. \n\n",
         "tags": [
             "Room and Facilities Regulations",
-            "Room Regulations"
+            "Room Regulations",
+            "UCHA Committees"
         ],
         "id": 96384
     },
@@ -3724,5 +3726,29 @@
             "Rules"
         ],
         "id": 98198
+    },
+    {
+        "text": "2b. With 24 hours  advance notice, ROM is allowed to access a  room and view the state of the room when trying to place a new member in a partially occupied room. There may be instances where an immediate placement is needed and may be done with consent of the existing occupants. \n",
+        "tags": [
+            "Room and Facilities Regulations",
+            "Rules"
+        ],
+        "id": 75343
+    },
+    {
+        "text": "9. Apart from Bump and aside from exceptions , ROM will be solely responsible for room assignments to incoming members based on the vacancies present in the coop. Exceptions can include among others medical accommodations. \n",
+        "tags": [
+            "Room and Facilities Regulations",
+            "Rules"
+        ],
+        "id": 15252
+    },
+    {
+        "text": "10. The only allowed form of contact is via email. Any other form of negative interaction will be considered retaliation and be subject to summons from Memcom/BoD. ",
+        "tags": [
+            "Room and Facilities Regulations",
+            "Rules"
+        ],
+        "id": 73409
     }
 ]
