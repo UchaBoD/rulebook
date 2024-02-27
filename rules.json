@@ -2347,7 +2347,7 @@
         "id": 43269
     },
     {
-        "text": "4. MemCom, when so ordered by the BoD, holds referenda and special elections. Elections may not be held during the summer quarter nor during any break between regular academic quarters. ",
+        "text": "1. MemCom, when so ordered by the BoD, holds referenda and special elections. Elections may not be held during the summer quarter nor during any break between regular academic quarters. ",
         "tags": [
             "Elections",
             "Calling of Elections",
@@ -2374,7 +2374,7 @@
         "id": 79349
     },
     {
-        "text": "7. MemCom must officially notify the membership of an election at least 7 days prior to balloting.",
+        "text": "2. MemCom must officially notify the membership of an election at least 7 days prior to balloting.",
         "tags": [
             "Elections",
             "Calling of Elections",
@@ -2436,7 +2436,7 @@
         "id": 67982
     },
     {
-        "text": "5. Any elected official either on the BoD or MemCom is required to attend an orientation meeting to be held by the pertinent body upon their election. Upon adjournment of the meeting, the presiding officer shall certify, in writing, that they (the newly elected member) were in attendance for the length of the meeting. Incoming BoD members shall be required to read and sign the Board of Directors Code of Conduct. This is to ensure that any incoming members who may be elected to such positions will be aware of the nature of the responsibilities their new positions may carry. (BoD 5/22/18). ",
+        "text": "3. Any elected official either on the BoD or MemCom is required to attend an orientation meeting to be held by the pertinent body upon their election. Upon adjournment of the meeting, the presiding officer shall certify, in writing, that they (the newly elected member) were in attendance for the length of the meeting. Incoming BoD members shall be required to read and sign the Board of Directors Code of Conduct. This is to ensure that any incoming members who may be elected to such positions will be aware of the nature of the responsibilities their new positions may carry. (BoD 5/22/18). ",
         "tags": [
             "Elections",
             "Nominations",
@@ -2465,7 +2465,7 @@
         "id": 94935
     },
     {
-        "text": "6. Any candidate holding a seat on either elected body (i.e., the Board or MemCom) who is running for a seat on the alternate body (i.e., the Board or MemCom) must vacate their seat in order to be eligible to run. Such a vacancy must then be filled by election the same quarter the seat was deemed vacant. The aforementioned candidates must turn in their candidate statements by 7:00 pm on the Thursday prior to polling in order to run in the election. ",
+        "text": "4. Any candidate holding a seat on either elected body (i.e., the Board or MemCom) who is running for a seat on the alternate body (i.e., the Board or MemCom) must vacate their seat in order to be eligible to run. Such a vacancy must then be filled by election the same quarter the seat was deemed vacant. The aforementioned candidates must turn in their candidate statements by 7:00 pm on the Thursday prior to polling in order to run in the election. ",
         "tags": [
             "Elections",
             "Nominations",
@@ -2499,11 +2499,14 @@
         "id": 94621
     },
     {
-        "text": "5. Absentee voters must obtain an absentee ballot from MemCom or the office. ",
+        "text": "4. Absentee voters must obtain an absentee ballot from MemCom or the office. ",
         "tags": [
             "Elections",
             "Polling",
-            "MemCom"
+            "MemCom",
+            "Jurisdiction",
+            "Entrance and Departure",
+            "Counting the Ballots"
         ],
         "id": 26885
     },
@@ -2564,17 +2567,19 @@
         "id": 13823
     },
     {
-        "text": "5. At least two copies of the election results with lengths of terms of those elected indicated would be signed by those who counted the ballots. One copy will be posted on the official bulletin board; the Secretary of the BoD will place the other in the official minutes. In addition to the election results posted on the official bulletin board, MemCom shall post the duration of the terms of those BoD and MemCom members who did not need to participate in the election. The terms shall be posted on the official bulletin board within two days of the final balloting and shall remain posted until after the next election. ",
+        "text": "1. At least two copies of the election results with lengths of terms of those elected indicated would be signed by those who counted the ballots. One copy will be posted on the official bulletin board; the Secretary of the BoD will place the other in the official minutes. In addition to the election results posted on the official bulletin board, MemCom shall post the duration of the terms of those BoD and MemCom members who did not need to participate in the election. The terms shall be posted on the official bulletin board within two days of the final balloting and shall remain posted until after the next election. ",
         "tags": [
             "Elections",
             "Counting the Ballots",
             "BoD",
-            "MemCom"
+            "MemCom",
+            "Room Bump Procedures",
+            "Room and Board"
         ],
         "id": 42247
     },
     {
-        "text": "6. MemCom's Vice-Chair will report on the results at the BoD meeting immediately following the elections. ",
+        "text": "2. MemCom's Vice-Chair will report on the results at the BoD meeting immediately following the elections. ",
         "tags": [
             "Elections",
             "Counting the Ballots",
@@ -2584,7 +2589,7 @@
         "id": 61376
     },
     {
-        "text": "7. To be deemed elected, a member running for BoD or MemCom must poll at least 20% of the total votes cast in that election. ",
+        "text": "3. To be deemed elected, a member running for BoD or MemCom must poll at least 20% of the total votes cast in that election. ",
         "tags": [
             "Elections",
             "Counting the Ballots",
@@ -3750,5 +3755,13 @@
             "Rules"
         ],
         "id": 73409
+    },
+    {
+        "text": "14.The Membership Committee shall appoint a Secretary. As Secretary, they are responsible for the maintenance of the official files. They are responsible for writing the MemCom agendas, and in the absence\nof a notetaker, performing the duties of notetaker.",
+        "tags": [
+            "MemCom",
+            "Jurisdiction"
+        ],
+        "id": 73625
     }
 ]
