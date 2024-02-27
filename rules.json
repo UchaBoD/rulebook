@@ -1158,12 +1158,13 @@
         "id": 88815
     },
     {
-        "text": "1. All co-opers must have on file a contract, which is automatically updated as per any revision by the BoD (BoD 9/12/02), and have placed a deposit, the amount of which is set by the BoD (see Appendix). No Co-oper’s personal records held by the Association shall be used by the Association or any other co-oper for purposes other than those explicitly stated in the contract or unless subpoenaed by court order or given consent by member. ",
+        "text": "1. All co-opers must have on file a contract, which is automatically updated as per any revision by the BoD (BoD 9/12/02), and have placed a deposit, the amount of which is set by the BoD (see Appendix). No Co-oper’s personal records held by the Association shall be used by the Association or any other co-oper for purposes other than those explicitly stated in the contract or unless subpoenaed by court order or given consent by member. Any unauthorized disclosure of a Co-oper’s personal records will result in an uncooperative fine and summons for membership expulsion.\n",
         "tags": [
             "Entrance and Departure",
             "Deposit",
             "BoD",
-            "Privacy"
+            "Privacy",
+            "Counting the Ballots"
         ],
         "id": 89928
     },
@@ -3179,10 +3180,11 @@
         "id": 57331
     },
     {
-        "text": "21. The BoD President (or designated/approved Board member) shall have access to the Co-op’s internal IT system and members’ information pertaining to the members’ contact information, room number, rent, chore, and bathroom history. ",
+        "text": "21. All members of the BoD and MemCom shall have access to the Co-op’s internal IT system and members’ information pertaining to the members’ contact information, room number, rent, chore, and bathroom history. All members of the BoD and MemCom must receive permission through a vote of their respective body in order to share members’ personal records with those who have not been authorized with access to the Co-op’s internal IT system. Any previous member of BoD or MemCom who accesses the Co-op’s internal IT system will receive an uncooperative fine and summons for membership expulsion.\n",
         "tags": [
             "BoD",
-            "Rules"
+            "Rules",
+            "Tenure"
         ],
         "id": 67063
     },
@@ -3714,5 +3716,13 @@
             "Polling"
         ],
         "id": 31681
+    },
+    {
+        "text": "22. All members of the BoD shall have access to BoD accounts. All members of the BoD must receive permission through a vote of the BoD in order to share the contents of BoD accounts with those who have not been authorized with access. Any previous member of the BoD who accesses the accounts will receive an uncooperative fine and be summoned for membership expulsion. The login credentials of the BoD accounts shall be changed at the end of every Quarter.",
+        "tags": [
+            "BoD",
+            "Rules"
+        ],
+        "id": 98198
     }
 ]
