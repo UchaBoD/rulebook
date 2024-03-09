@@ -218,7 +218,7 @@
         "id": 30023
     },
     {
-        "text": "12. The Board of Directors may summon for expulsion any member(s) who owes UCHA more than $400.00 or is chore deficient.",
+        "text": "12. The Membership Committee may summon for expulsion any member(s) who owes UCHA more than $400.00 or is chore deficient.",
         "tags": [
             "Membership Status",
             "Expulsion",
@@ -474,7 +474,7 @@
         "id": 50024
     },
     {
-        "text": "3. Any member considered for expulsion (not within the jurisdiction of the BoD) must be given an opportunity to appear first before MemCom. MemCom may decide on the expulsion regardless of whether or not the member appears. An expulsion may be appealed to MemCom (again) if new evidence is introduced. ",
+        "text": "3. Any member considered for expulsion must be given an opportunity to appear first before MemCom. MemCom may decide on the expulsion regardless of whether or not the member appears. An expulsion may be appealed to MemCom (again) if new evidence is introduced.",
         "tags": [
             "Membership Status",
             "Expulsion"
@@ -518,7 +518,7 @@
         "id": 53849
     },
     {
-        "text": "3. Any member deficient by 20 chore shift hours or 5 bathroom shifts will be summoned to a mandatory expulsion hearing with the Board of Directors. Unless the Board deems the circumstances for non-fulfillment are due to unavoidable circumstances, or unfamiliarity with the process due to being a first quarter member, the expulsion will be final. However, should the said member's appeal be accepted, and a make-up opportunity be given, such grace shall be given as a one-time opportunity only. Should the member be deficient again the following or at a subsequent quarter, no grace or leniency shall be afforded, and the said member shall be duly expelled.",
+        "text": "3. Any member deficient by 20 chore shift hours or 5 bathroom shifts will be summoned to a mandatory expulsion hearing with the Membership Committee. Unless the MemCom deems the circumstances for non-fulfillment are due to unavoidable circumstances, or unfamiliarity with the process due to being a first quarter member, the expulsion will be final. However, should the said member's appeal be accepted, and a make-up opportunity be given, such grace shall be given as a one-time opportunity only. Should the member be deficient again the following or at a subsequent quarter, no grace or leniency shall be afforded, and the said member shall be duly expelled",
         "tags": [
             "Chore Obligations",
             "Chore Deficiency",
@@ -775,7 +775,7 @@
         "id": 64263
     },
     {
-        "text": "4. The Board of directors may give the Membership Committee the responsibility to hold the expulsion hearings described in Rule III.B.3 during any particular quarter. This decision must be ratified for each quarter it holds, and may be reversed at any time during the quarter. All such expulsion hearings and decisions taken in them must be notified to the board, which shall have the ability to reverse them.",
+        "text": "4. The Membership Committee may give the Board of Directors the responsibility to hold the expulsion hearings described in Rule III.B.3 during any particular quarter. This decision must be ratified for each quarter it holds, and may be reversed at any time during the quarter. All such expulsion hearings and decisions taken in them must be notified to the MemCom, which shall have the ability to reverse them.",
         "tags": [
             "Chore Obligations",
             "Chore Deficiency",
@@ -1020,7 +1020,7 @@
         "id": 81757
     },
     {
-        "text": "7. If the R&B delinquent co-oper does not pay their account balance to within $50 by the deadline specified by MemCom/BoD (as per their jurisdiction), then all eviction proceedings will continue against the member. (BoD 11/14/99) ",
+        "text": "7. If the R&B delinquent co-oper does not pay their account balance to within $50 by the deadline specified by MemCom, then all eviction proceedings will continue against the member.",
         "tags": [
             "Membership Status",
             "Expulsion",
@@ -2669,7 +2669,7 @@
         "id": 95378
     },
     {
-        "text": "3. MemCom will retain exclusive jurisdiction for R&B delinquency involving and including up to $400.00. ",
+        "text": "15. As requested, the MemCom must provide the Treasurer of the BoD financial information regarding rent delinquency.",
         "tags": [
             "MemCom",
             "Jurisdiction"
@@ -2677,7 +2677,7 @@
         "id": 17676
     },
     {
-        "text": "4. Once a member surpasses $400.00 in R&B delinquency, the ED, with authorization from the BoD, will take over jurisdiction of the R&B delinquent member’s account. ",
+        "text": "4. Once a member surpasses $400.00 in R&B delinquency, the ED, with authorization from the MemCom, may take over jurisdiction of the R&B delinquent member’s account.",
         "tags": [
             "MemCom",
             "Jurisdiction",
@@ -3126,10 +3126,11 @@
         "id": 46373
     },
     {
-        "text": "14. The BoD shall be vested with jurisdiction over chore deficiency. ",
+        "text": "14. The MemCom shall be vested with jurisdiction over chore deficiency.",
         "tags": [
             "BoD",
-            "Rules"
+            "Rules",
+            "MemCom"
         ],
         "id": 18377
     },
@@ -3764,5 +3765,13 @@
             "Jurisdiction"
         ],
         "id": 73625
+    },
+    {
+        "text": "16. In the event of an emergency in which the Membership Committee is unable to function, the BoD must temporarily assume the duties of the MemCom (including chore and rent deficiencies) until MemCom is restored to its proper functionality. Once functionality is restored,the BoD must return all responsibilities within the MemCom’s jurisdiction back to the Membership Committee.",
+        "tags": [
+            "MemCom",
+            "Jurisdiction"
+        ],
+        "id": 74915
     }
 ]
