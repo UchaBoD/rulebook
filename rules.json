@@ -2391,7 +2391,7 @@
         "id": 54975
     },
     {
-        "text": "9. For the purpose of elections, R&B delinquency shall be defined as owing $100 or more. ",
+        "text": "9. For the purpose of elections, R&B delinquency shall be defined as owing $400 or more. ",
         "tags": [
             "Elections",
             "Calling of Elections",
@@ -2409,7 +2409,7 @@
         "id": 79574
     },
     {
-        "text": "2. Candidates must be UCHA members who fulfill the Academic status requirement as defined in II.A of the UCHA Rulebook, except when an exception to the aforementioned rules is obtained from the Board of Directors prior to the election. Candidates may not be R&B/rent, chore, bathroom, or registration deficient. ",
+        "text": "2. Candidates must be UCHA members who fulfill the Academic status requirement as defined in II.A of the UCHA Rulebook, except when an exception to the aforementioned rules is obtained from the Board of Directors prior to the election. Candidates may not be R&B/rent, chore, bathroom, or registration deficient unless an exception is granted. ",
         "tags": [
             "Elections",
             "Nominations",
@@ -2436,7 +2436,7 @@
         "id": 67982
     },
     {
-        "text": "5. Any elected official either on the BoD or MemCom is required to attend an orientation meeting to be held by the pertinent body upon their election. Upon adjournment of the meeting, the presiding officer shall certify, in writing, that they (the newly elected member) were in attendance for the length of the meeting. Incoming BoD members shall be required to read and sign the Board of Directors Code of Conduct. This is to ensure that any incoming members who may be elected to such positions will be aware of the nature of the responsibilities their new positions may carry. (BoD 5/22/18). ",
+        "text": "5. Any elected official either on the BoD or MemCom is required to attend an orientation meeting to be held by the pertinent body upon their election. Incoming BoD members shall be required to read aloud Board of Directors Oath. This is to ensure that any incoming members who may be elected to such positions will be aware of the nature of the responsibilities their new positions may carry.  ",
         "tags": [
             "Elections",
             "Nominations",
@@ -2456,7 +2456,7 @@
         "id": 22358
     },
     {
-        "text": "",
+        "text": "6. Any outgoing member of the Board of Directors is required to host an orientation session for incoming Board Members and produce a handover document to help ease the transition.",
         "tags": [
             "Elections",
             "Nominations",
@@ -2465,7 +2465,7 @@
         "id": 94935
     },
     {
-        "text": "6. Any candidate holding a seat on either elected body (i.e., the Board or MemCom) who is running for a seat on the alternate body (i.e., the Board or MemCom) must vacate their seat in order to be eligible to run. Such a vacancy must then be filled by election the same quarter the seat was deemed vacant. The aforementioned candidates must turn in their candidate statements by 7:00 pm on the Thursday prior to polling in order to run in the election. ",
+        "text": "7. Any candidate holding a seat on either elected body (i.e., the Board or MemCom) who is running for a seat on the alternate body (i.e., the Board or MemCom) must vacate their seat in order to be eligible to run. Such a vacancy must then be filled by election the same quarter the seat was deemed vacant. The aforementioned candidates must turn in their candidate statements by 7:00 pm on the Thursday prior to polling in order to run in the election. ",
         "tags": [
             "Elections",
             "Nominations",
@@ -2492,7 +2492,7 @@
         "id": 73466
     },
     {
-        "text": "4. Ballots will be distributed to every member and their names will be recorded as they vote. ",
+        "text": "4. Electronic Ballots will be distributed to every member and their names will be recorded as they vote. ",
         "tags": [
             "Elections",
             "Polling"
@@ -2500,19 +2500,20 @@
         "id": 94621
     },
     {
-        "text": "5. Absentee voters must obtain an absentee ballot from MemCom or the office. ",
+        "text": "6. Candidates will not be allowed to make false statements of fact on their campaign material pertaining to their past experience or their proposed policies. Election officers may be allowed to ask candidates to remove statements from campaign material. Any deliberate false statements can be penalized by the election officers and the candidate may be disqualified.\n",
         "tags": [
             "Elections",
             "Polling",
             "MemCom",
             "Jurisdiction",
             "Entrance and Departure",
-            "Counting the Ballots"
+            "Counting the Ballots",
+            "Room and Board"
         ],
         "id": 26885
     },
     {
-        "text": "6. The polls will be open at a minimum from 7:00 a.m. to 9:30 a.m. during breakfast and 5:00 p.m. to 7:00 p.m. during dinner and at maximum from 00:01 a.m to 23:59 p.m. on polling days. ",
+        "text": "",
         "tags": [
             "Elections",
             "Polling"
@@ -2528,7 +2529,7 @@
         "id": 80887
     },
     {
-        "text": "8. No electioneering or campaigning will be allowed in the general polling area. The general polling area shall be defined by the election officers and official notice shall be given to the membership prior to voting. Candidates who violate this rule are subject to disqualification by the election officers. UCHA will reproduce each candidate’s candidate pitch to be posted in a campaign display in the polling area, to be maintained by the election officers. \n",
+        "text": "5.Polling will only be allowed in the general polling area. This includes the lobby, cafeteria, elevator and general office area. Candidates who violate this rule are subject to disqualification by the election officers. UCHA will reproduce each candidate’s candidate pitch to be posted in a campaign display in the polling area, to be maintained by the election officers. \n",
         "tags": [
             "Elections",
             "Polling"
@@ -2536,7 +2537,7 @@
         "id": 33404
     },
     {
-        "text": "1. After the polls close, ballots will be counted immediately by at least three election officers. ",
+        "text": "1. After the polls close, ballots will be verified immediately by at least three election officers. ",
         "tags": [
             "Elections",
             "Counting the Ballots"
@@ -2580,7 +2581,7 @@
         "id": 42247
     },
     {
-        "text": "4. MemCom's Vice-Chair will report on the results at the BoD meeting immediately following the elections. ",
+        "text": "6. MemCom's Vice-Chair will report on the results at the BoD meeting immediately following the elections. ",
         "tags": [
             "Elections",
             "Counting the Ballots",
@@ -2590,7 +2591,7 @@
         "id": 61376
     },
     {
-        "text": "3. To be deemed elected, a member running for BoD or MemCom must poll at least 20% of the total votes cast in that election. ",
+        "text": "7. To be deemed elected, a member running for BoD or MemCom must poll at least 20% of the total votes cast in the specific election category. ",
         "tags": [
             "Elections",
             "Counting the Ballots",
@@ -2632,7 +2633,7 @@
         "id": 88160
     },
     {
-        "text": "5. A write-in ballot will be considered as valid only if \n   a) the person listed/written-in is a qualified member of the UCHA in good standing.\n   b) at least the first/middle/last name and initials of the first/last name are clearly written in, and \n   c) polls at least 20% of the total votes cast in that election. \nIf a qualified write-in fails to poll the minimum required votes, then any votes cast in their favor will not be considered as valid in that election. Invalidation of a write-in does not invalidate the entire ballot. ",
+        "text": "5. A write-in ballot will be considered as valid only if \n   a) the person listed/written-in is a qualified member of the UCHA in good standing.\n   b) at least the first/middle/last name and initials of the first/last name are clearly written in, and \n   c) polls at least 20% of the total votes cast in that specific election category. \nIf a qualified write-in fails to poll the minimum required votes, then any votes cast in their favor will not be considered as valid in that election. Invalidation of a write-in does not invalidate the entire ballot. ",
         "tags": [
             "Elections",
             "Valid Ballots"
